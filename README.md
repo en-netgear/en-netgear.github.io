@@ -1,1 +1,1 @@
-# en-netgear.github.io
+NETGEAR Router GitHub Pages site. Upload homepage files to repository root, and all 800 HTML articles into articles/. Enable GitHub Pages on main branch root. Article links to third parties are not official NETGEAR support.
